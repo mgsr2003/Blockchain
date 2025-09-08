@@ -1,5 +1,4 @@
-Mini Blockchain Assignment
-This repository contains a small proof-of-work blockchain implemented in Node.js for the assignment. It demonstrates block hashing, chain linkage, transaction storage, mining (PoW), and chain validation (tamper detection).
+Mini Blockchain Assignment: This repository contains a small proof-of-work blockchain implemented in Node.js for the assignment. It demonstrates block hashing, chain linkage, transaction storage, mining (PoW), and chain validation (tamper detection).
 Files: blockchain.js — the JavaScript implementation
        README.md— this file
 How to run:
